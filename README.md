@@ -13,9 +13,9 @@ This repository contains a collection of mini projects that I have worked on dur
 ### How to run these projects ?
 To run this project on your local environment, follow the following steps :
 - Clone the repository to your local machine or download the source code.
+- Select one of the projects above you're interested to see
 - Run the command `npm install` in the project directory to install the **required** dependencies
 - Run the command `npm run start` to start the `production build` of the project.
-- Open your internet browser and go to the following address: [http://localhost:3000](http://localhost:3000)
 
 
 
