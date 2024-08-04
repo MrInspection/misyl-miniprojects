@@ -1,12 +1,12 @@
-# Budget Tracker
+# Twitter UI Experiment
 
-A simple budget tracker app built using Vue.js and Tailwind CSS.
+A Twitter UI experiment built using Quasar Framework. The goal of this project was to learn how to use Quasar Framework to build a UI for a Twitter-like application (without the features).
 
-![](public/lab-tracker.png)
+![](public/lab-twitter.png)
 
 ### Development Stack
+- Quasar Framework
 - Vue.js
-- Tailwind CSS
 
 ### How to run this project ?
 To run this project on your local environment, follow the following steps :
